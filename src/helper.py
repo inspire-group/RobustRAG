@@ -20,11 +20,9 @@ def load_jsonl(file_path):
     return results
 
 
-def save_json(results, file_path="debug.json"):
-    json_dict = json.dumps(results, cls=NpEncoder)
-    dict_from_str = json.loads(json_dict)
-    with open(file_path, 'w', encoding='utf-8') as f:
-        json.dump(dict_from_str, f, indent=4)
+def save_json(file,file_path):
+    with open(file_path, 'w') as g:
+        g.write(json.dumps(file, indent=4))
 
 def load_json(file_path):
     with open(file_path) as file:

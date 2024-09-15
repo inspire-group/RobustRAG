@@ -1,5 +1,7 @@
 [Certifiably Robust RAG against Retrieval Corruption](https://arxiv.org/abs/2405.15556)
 
+This project is under active development. There might be some (small) mismatches between this repository and the arXiv preprint.
+
 ## Files
 
 ```shell

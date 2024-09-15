@@ -6,3 +6,5 @@ log
 logs
 result
 result_certify
+data/clean_data.py
+

@@ -11,12 +11,14 @@ class DataUtils: # base class for dataset
         logger.info(f'Total samples: {len(self.data)}')
         self.top_k = top_k
 
-    def process_data_item(self,data_item,top_k=None,include_title=True):
+    def process_data_item(self,data_item,top_k=None,include_title=True,add_expanded_answer=True):
         # extract necessary information from raw json file
         top_k = self.top_k if top_k is None else top_k
         question = data_item['question']
         context = data_item['context'][:top_k] # retrieved passages
         answer = data_item['correct answer']
+        if add_expanded_answer: # using additional equivalent answers written by GPT (GPT can make mistakes occasionally)
+            answer += data_item['expanded answer']
         
         incorrect_answer = data_item.get('incorrect answer',[]) # used for running targeted attack
         incorrect_context = data_item.get('incorrect_context',[]) # used for running Poison attack

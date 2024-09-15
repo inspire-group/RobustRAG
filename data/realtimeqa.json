@@ -2,9 +2,7 @@
     {
         "question": "What percentage of couples are 'sleep divorced', according to new research?",
         "correct answer": [
-            "0.15",
-            "15%",
-            "Fifteen percent"
+            "15%"
         ],
         "incorrect answer": "32%",
         "id": 0,
@@ -269,14 +267,16 @@
             "50%"
         ],
         "choices answer": "1",
-        "question id": "20231013_1"
+        "question id": "20231013_1",
+        "expanded answer": [
+            "0.15",
+            "Fifteen percent"
+        ]
     },
     {
         "question": "A new study names which country as the worst in the developed world for housing?",
         "correct answer": [
-            "England",
-            "UK",
-            "United Kingdom"
+            "England"
         ],
         "incorrect answer": "Switzerland",
         "id": 1,
@@ -536,16 +536,16 @@
             "Portugal"
         ],
         "choices answer": "0",
-        "question id": "20231013_2"
+        "question id": "20231013_2",
+        "expanded answer": [
+            "UK",
+            "United Kingdom"
+        ]
     },
     {
         "question": "A Rightmove analysis suggests having the \"unlucky\" number 13 on the front door knocks how much off a property's value?",
         "correct answer": [
-            "5000 pounds",
-            "five thousand pounds",
-            "\u00a35k",
-            "\u00a35,000",
-            "5k pounds"
+            "\u00a35,000"
         ],
         "incorrect answer": "\u00a315,000",
         "id": 2,
@@ -810,13 +810,18 @@
             "\u00a325,000"
         ],
         "choices answer": "1",
-        "question id": "20231013_3"
+        "question id": "20231013_3",
+        "expanded answer": [
+            "5000 pounds",
+            "five thousand pounds",
+            "\u00a35k",
+            "5k pounds"
+        ]
     },
     {
         "question": "Scientists have discovered that the females of which species fake their own deaths to avoid unwanted male advances?",
         "correct answer": [
-            "Frogs",
-            "Frog"
+            "Frogs"
         ],
         "incorrect answer": "Butterflies",
         "id": 3,
@@ -1081,7 +1086,10 @@
             "Spiders"
         ],
         "choices answer": "2",
-        "question id": "20231013_5"
+        "question id": "20231013_5",
+        "expanded answer": [
+            "Frog"
+        ]
     },
     {
         "question": "Which scandal-plagued US politician was hit with 10 new criminal charges this week including wire fraud and identity theft?",
@@ -1230,7 +1238,8 @@
             "Malcolm Smith"
         ],
         "choices answer": "2",
-        "question id": "20231013_6"
+        "question id": "20231013_6",
+        "expanded answer": []
     },
     {
         "question": "Taylor Swift welcomed which special guest and \"guiding light\" to the premiere of her \"The Eras Tour\" concert film?",
@@ -1455,14 +1464,13 @@
             "Beyonc\u00e9"
         ],
         "choices answer": "3",
-        "question id": "20231013_7"
+        "question id": "20231013_7",
+        "expanded answer": []
     },
     {
         "question": "The House of Representatives has been in disarray following the ousting of speaker Kevin McCarthy. Who did House Republicans pick as their nominee for speaker this week?",
         "correct answer": [
-            "Steve Scalise",
-            "Majority Leader Steve Scalise",
-            "Scalise"
+            "Majority Leader Steve Scalise"
         ],
         "incorrect answer": "Minority Whip John Thune",
         "id": 6,
@@ -1732,15 +1740,15 @@
             "Former President Donald Trump"
         ],
         "choices answer": "2",
-        "question id": "20231013_11"
+        "question id": "20231013_11",
+        "expanded answer": [
+            "Steve Scalise",
+            "Scalise"
+        ]
     },
     {
         "question": "Approximately how many books are being used to train artificial intelligence systems?",
         "correct answer": [
-            "200K",
-            "Approximately 200,000 books",
-            "Two hundred thousand",
-            "Around 200K books",
             "200,000"
         ],
         "incorrect answer": "1.5 million",
@@ -2006,7 +2014,13 @@
             "200,000"
         ],
         "choices answer": "3",
-        "question id": "20231013_12"
+        "question id": "20231013_12",
+        "expanded answer": [
+            "200K",
+            "Approximately 200,000 books",
+            "Two hundred thousand",
+            "Around 200K books"
+        ]
     },
     {
         "question": "Which 2024 Republican presidential contender announced that he is ending his campaign?",
@@ -2281,7 +2295,8 @@
             "Former Texas Rep. Will Hurd"
         ],
         "choices answer": "3",
-        "question id": "20231013_14"
+        "question id": "20231013_14",
+        "expanded answer": []
     },
     {
         "question": "Which heavily trafficked website wants to do away with passwords and pivot to an alternative sign-in method known as \u201cpasskeys?\u201d",
@@ -2551,15 +2566,13 @@
             "Yahoo"
         ],
         "choices answer": "1",
-        "question id": "20231013_16"
+        "question id": "20231013_16",
+        "expanded answer": []
     },
     {
         "question": "Which potentially harmful ingredient has been banned from use in all California foods?",
         "correct answer": [
-            "E127",
-            "Red dye No. 3",
-            "Erythrosine",
-            "FD&C Red No. 3"
+            "Red dye No. 3"
         ],
         "incorrect answer": "Aspartame",
         "id": 10,
@@ -2819,7 +2832,12 @@
             "Sodium nitrate"
         ],
         "choices answer": "2",
-        "question id": "20231013_17"
+        "question id": "20231013_17",
+        "expanded answer": [
+            "E127",
+            "Erythrosine",
+            "FD&C Red No. 3"
+        ]
     },
     {
         "question": "What is the name of the 1,500-square-mile iceberg that is on the move after breaking away from Antarctica?",
@@ -3084,7 +3102,8 @@
             "A-81"
         ],
         "choices answer": "2",
-        "question id": "20231201_0"
+        "question id": "20231201_0",
+        "expanded answer": []
     },
     {
         "question": "The Americans for Prosperity Action group is backing which Republican presidential candidate?",
@@ -3354,17 +3373,13 @@
             "Vivek Ramaswamy"
         ],
         "choices answer": "1",
-        "question id": "20231201_1"
+        "question id": "20231201_1",
+        "expanded answer": []
     },
     {
         "question": "All 41 workers trapped in a collapsed tunnel in the northern Himalayas were rescued after how many days stuck underground?",
         "correct answer": [
-            "17 days underground",
-            "17",
-            "after 17 days",
-            "seventeen days underground",
-            "17 days",
-            "seventeen days"
+            "17"
         ],
         "incorrect answer": "24",
         "id": 13,
@@ -3624,7 +3639,14 @@
             "21"
         ],
         "choices answer": "2",
-        "question id": "20231201_2"
+        "question id": "20231201_2",
+        "expanded answer": [
+            "17 days underground",
+            "after 17 days",
+            "seventeen days underground",
+            "17 days",
+            "seventeen days"
+        ]
     },
     {
         "question": "What is Merriam-Webster's word of the year for 2023?",
@@ -3894,7 +3916,8 @@
             "Coronation"
         ],
         "choices answer": "0",
-        "question id": "20231201_3"
+        "question id": "20231201_3",
+        "expanded answer": []
     },
     {
         "question": "What is the name of Omid Scobie's controversial new book about the British royal family?",
@@ -4159,7 +4182,8 @@
             "Endgame"
         ],
         "choices answer": "3",
-        "question id": "20231201_5"
+        "question id": "20231201_5",
+        "expanded answer": []
     },
     {
         "question": "What did Dutch people put on their heads this week to celebrate a national day?",
@@ -4424,7 +4448,8 @@
             "Pizzas"
         ],
         "choices answer": "1",
-        "question id": "20231201_7"
+        "question id": "20231201_7",
+        "expanded answer": []
     },
     {
         "question": "Which author won the 2023 Booker Prize?",
@@ -4689,16 +4714,13 @@
             "Sarah Bernstein"
         ],
         "choices answer": "0",
-        "question id": "20231201_8"
+        "question id": "20231201_8",
+        "expanded answer": []
     },
     {
         "question": "Elon Musk told advertisers fleeing his social media platform X (formerly Twitter) to do what?",
         "correct answer": [
-            "Go f**k yourself",
-            "Go f yourself",
-            "Go f*** yourself",
-            "Go f*ck yourself",
-            "Go eff yourself"
+            "Go f*** yourself"
         ],
         "incorrect answer": "Reconsider their marketing strategies",
         "id": 18,
@@ -4963,17 +4985,18 @@
             "Drop dead, f***ers"
         ],
         "choices answer": "1",
-        "question id": "20231201_9"
+        "question id": "20231201_9",
+        "expanded answer": [
+            "Go f**k yourself",
+            "Go f yourself",
+            "Go f*ck yourself",
+            "Go eff yourself"
+        ]
     },
     {
         "question": "One of America\u2019s most well-known Christmas trees toppled over in gusty winds this week. Where did this occur?",
         "correct answer": [
-            "Washington, DC",
-            "Washington",
-            "Washington D.C.",
-            "District of Columbia",
-            "DC",
-            "Washington District of Columbia"
+            "Washington, DC"
         ],
         "incorrect answer": "New York City",
         "id": 19,
@@ -5233,7 +5256,14 @@
             "Chicago"
         ],
         "choices answer": "1",
-        "question id": "20231201_10"
+        "question id": "20231201_10",
+        "expanded answer": [
+            "Washington",
+            "Washington D.C.",
+            "District of Columbia",
+            "DC",
+            "Washington District of Columbia"
+        ]
     },
     {
         "question": "Which tech leader met with Israel\u2019s president this week?",
@@ -5503,16 +5533,13 @@
             "Tim Cook"
         ],
         "choices answer": "0",
-        "question id": "20231201_12"
+        "question id": "20231201_12",
+        "expanded answer": []
     },
     {
         "question": "Which type of recalled food was mistakenly distributed to several large retailers?",
         "correct answer": [
-            "Unsafe fruit",
-            "Fruit batches with potential health risks",
-            "Recalled fruit products",
-            "Fruit",
-            "Contaminated fruit"
+            "Fruit"
         ],
         "incorrect answer": "Frozen pizzas",
         "id": 21,
@@ -5782,7 +5809,13 @@
             "Beef"
         ],
         "choices answer": "1",
-        "question id": "20231201_15"
+        "question id": "20231201_15",
+        "expanded answer": [
+            "Unsafe fruit",
+            "Fruit batches with potential health risks",
+            "Recalled fruit products",
+            "Contaminated fruit"
+        ]
     },
     {
         "question": "Which country said it will ban smoking on beaches and in public parks?",
@@ -6042,16 +6075,13 @@
             "Spain"
         ],
         "choices answer": "2",
-        "question id": "20231201_16"
+        "question id": "20231201_16",
+        "expanded answer": []
     },
     {
         "question": "Which type of structure recently collapsed in India, trapping dozens of workers?",
         "correct answer": [
-            "Excavation tunnel",
-            "Tunnel",
-            "Construction tunnel",
-            "Underground passage",
-            "Roadway tunnel"
+            "Tunnel"
         ],
         "incorrect answer": "Bridge",
         "id": 23,
@@ -6316,7 +6346,13 @@
             "Stadium"
         ],
         "choices answer": "0",
-        "question id": "20231201_17"
+        "question id": "20231201_17",
+        "expanded answer": [
+            "Excavation tunnel",
+            "Construction tunnel",
+            "Underground passage",
+            "Roadway tunnel"
+        ]
     },
     {
         "question": "Which route has been completely canceled by Avelo Airlines?",
@@ -6586,7 +6622,8 @@
             "Melbourne/Cocoa Beach, Florida"
         ],
         "choices answer": "3",
-        "question id": "20231201_20"
+        "question id": "20231201_20",
+        "expanded answer": []
     },
     {
         "question": "What holiday-themed Pop-Tart flavor did Pop-Tarts playfully suggest on their Instagram, eliciting mixed reactions?",
@@ -6748,7 +6785,8 @@
             "Frosted Green Bean Casserole"
         ],
         "choices answer": "3",
-        "question id": "20231201_23"
+        "question id": "20231201_23",
+        "expanded answer": []
     },
     {
         "question": "Who was named People\u2019s Sexiest Man Alive of 2023?",
@@ -7018,7 +7056,8 @@
             "Patrick Dempsey"
         ],
         "choices answer": "3",
-        "question id": "20231110_0"
+        "question id": "20231110_0",
+        "expanded answer": []
     },
     {
         "question": "Which baseball veteran did the Los Angeles Angels hire to replace Phil Nevin as manager?",
@@ -7288,7 +7327,8 @@
             "Benji Gil"
         ],
         "choices answer": "1",
-        "question id": "20231110_3"
+        "question id": "20231110_3",
+        "expanded answer": []
     },
     {
         "question": "Which US state became the 24th to legalise recreational marijuana?",
@@ -7558,7 +7598,8 @@
             "Minnesota"
         ],
         "choices answer": "2",
-        "question id": "20231110_5"
+        "question id": "20231110_5",
+        "expanded answer": []
     },
     {
         "question": "Which pop star used their WhatsApp fan channel to criticise an AI-generated TikTok song that mimics their voice?",
@@ -7823,16 +7864,13 @@
             "Bad Bunny"
         ],
         "choices answer": "3",
-        "question id": "20231110_7"
+        "question id": "20231110_7",
+        "expanded answer": []
     },
     {
         "question": "How many Republican candidates participated in the presidential debate this week?",
         "correct answer": [
-            "5",
-            "V",
-            "five",
-            "05",
-            "cinco"
+            "5"
         ],
         "incorrect answer": "8",
         "id": 30,
@@ -8097,7 +8135,13 @@
             "10"
         ],
         "choices answer": "1",
-        "question id": "20231110_10"
+        "question id": "20231110_10",
+        "expanded answer": [
+            "V",
+            "five",
+            "05",
+            "cinco"
+        ]
     },
     {
         "question": "Which labor union ended a historic strike this week?",
@@ -8367,7 +8411,8 @@
             "Auto workers"
         ],
         "choices answer": "0",
-        "question id": "20231110_11"
+        "question id": "20231110_11",
+        "expanded answer": []
     },
     {
         "question": "Which city was enveloped in a blanket of toxic smog this week?",
@@ -8632,7 +8677,8 @@
             "New Delhi"
         ],
         "choices answer": "3",
-        "question id": "20231110_12"
+        "question id": "20231110_12",
+        "expanded answer": []
     },
     {
         "question": "Which state said \u201cyes\u201d to making abortion a constitutional right?",
@@ -8907,7 +8953,8 @@
             "Ohio"
         ],
         "choices answer": "3",
-        "question id": "20231110_14"
+        "question id": "20231110_14",
+        "expanded answer": []
     },
     {
         "question": "More than 30,000 pounds of which food product were recently recalled?",
@@ -9177,16 +9224,13 @@
             "Mustard"
         ],
         "choices answer": "0",
-        "question id": "20231110_15"
+        "question id": "20231110_15",
+        "expanded answer": []
     },
     {
         "question": "America\u2019s banking system was widely impacted this week by which issue?",
         "correct answer": [
-            "Delayed deposits",
-            "Bank processing delays",
-            "Slow transaction processing",
-            "Transaction delays",
-            "Deposit issues"
+            "Delayed deposits"
         ],
         "incorrect answer": "Increased interest rates",
         "id": 35,
@@ -9456,15 +9500,18 @@
             "Loan scams"
         ],
         "choices answer": "2",
-        "question id": "20231110_17"
+        "question id": "20231110_17",
+        "expanded answer": [
+            "Bank processing delays",
+            "Slow transaction processing",
+            "Transaction delays",
+            "Deposit issues"
+        ]
     },
     {
         "question": "A hit song from 1988 won big at the Country Music Awards this week. Which was it?",
         "correct answer": [
-            "\u201cFast Car\u201d \u2013 Tracy Chapman",
-            "'Fast Car' \u2013 Tracy Chapman",
-            "\"Fast Car\" \u2013 Tracy Chapman",
-            "Fast Car"
+            "\u201cFast Car\u201d \u2013 Tracy Chapman"
         ],
         "incorrect answer": "Sweet Child o Mine \u2013 Guns N Roses",
         "id": 36,
@@ -9728,7 +9775,12 @@
             "\u201cBreathe\" \u2013 Faith Hill"
         ],
         "choices answer": "1",
-        "question id": "20231110_19"
+        "question id": "20231110_19",
+        "expanded answer": [
+            "'Fast Car' \u2013 Tracy Chapman",
+            "\"Fast Car\" \u2013 Tracy Chapman",
+            "Fast Car"
+        ]
     },
     {
         "question": "What prompted the shooting incident in Wilmington?",
@@ -10003,16 +10055,13 @@
             "A confrontation over a financial transaction"
         ],
         "choices answer": "1",
-        "question id": "20231110_25"
+        "question id": "20231110_25",
+        "expanded answer": []
     },
     {
         "question": "What incident initially brought Timothy Edward Olschafskie to the attention of Delaware authorities on March 11?",
         "correct answer": [
-            "Emergency CPR on a young child",
-            "Child receiving CPR",
-            "A child being given CPR",
-            "Toddler being administered CPR",
-            "Infant undergoing CPR"
+            "Child receiving CPR"
         ],
         "incorrect answer": "A bank robbery",
         "id": 38,
@@ -10182,7 +10231,13 @@
             "Domestic violence"
         ],
         "choices answer": "1",
-        "question id": "20231110_29"
+        "question id": "20231110_29",
+        "expanded answer": [
+            "Emergency CPR on a young child",
+            "A child being given CPR",
+            "Toddler being administered CPR",
+            "Infant undergoing CPR"
+        ]
     },
     {
         "question": "What was hung from London's Millennium Bridge this week to act as a warning to river traffic that repair work is going on?",
@@ -10407,7 +10462,8 @@
             "A fluorescent banner"
         ],
         "choices answer": "1",
-        "question id": "20231020_1"
+        "question id": "20231020_1",
+        "expanded answer": []
     },
     {
         "question": "Donald Trump was attacked by what during a speech in Iowa this week?",
@@ -10682,16 +10738,13 @@
             "Ants"
         ],
         "choices answer": "1",
-        "question id": "20231020_3"
+        "question id": "20231020_3",
+        "expanded answer": []
     },
     {
         "question": "What percentage of Australian voters submitted \"No\" ballots in the country's Indigenous Voice referendum last Saturday?",
         "correct answer": [
-            "sixty percent",
-            "60%",
-            "60 percent",
-            "three-fifths",
-            "0.6"
+            "60%"
         ],
         "incorrect answer": "72%",
         "id": 41,
@@ -10956,7 +11009,13 @@
             "63%"
         ],
         "choices answer": "2",
-        "question id": "20231020_5"
+        "question id": "20231020_5",
+        "expanded answer": [
+            "sixty percent",
+            "60 percent",
+            "three-fifths",
+            "0.6"
+        ]
     },
     {
         "question": "Football legend Eric Cantona performed the first concert of his singer-songwriter career last weekend. In which French city did it take place?",
@@ -11221,7 +11280,8 @@
             "Poitiers"
         ],
         "choices answer": "1",
-        "question id": "20231020_6"
+        "question id": "20231020_6",
+        "expanded answer": []
     },
     {
         "question": "The president of which African country travelled to China this week to ask for a $1 billion loan?",
@@ -11491,7 +11551,8 @@
             "South Africa"
         ],
         "choices answer": "0",
-        "question id": "20231020_7"
+        "question id": "20231020_7",
+        "expanded answer": []
     },
     {
         "question": "President Joe Biden made an extraordinary wartime visit this week to which country?",
@@ -11761,14 +11822,13 @@
             "Israel"
         ],
         "choices answer": "3",
-        "question id": "20231020_10"
+        "question id": "20231020_10",
+        "expanded answer": []
     },
     {
         "question": "Where will next month\u2019s Republican presidential debate take place?",
         "correct answer": [
-            "Miami FL",
-            "Miami",
-            "Miami, Florida"
+            "Miami"
         ],
         "incorrect answer": "Houston",
         "id": 45,
@@ -12038,7 +12098,11 @@
             "Phoenix"
         ],
         "choices answer": "1",
-        "question id": "20231020_11"
+        "question id": "20231020_11",
+        "expanded answer": [
+            "Miami FL",
+            "Miami, Florida"
+        ]
     },
     {
         "question": "Which popular travel destination reported a \u201cwidespread\u201d rise in bedbugs this fall?",
@@ -12303,7 +12367,8 @@
             "Dubai"
         ],
         "choices answer": "2",
-        "question id": "20231020_13"
+        "question id": "20231020_13",
+        "expanded answer": []
     },
     {
         "question": "Which medication is expected to substantially increase in price in the coming months?",
@@ -12573,7 +12638,8 @@
             "Advil"
         ],
         "choices answer": "1",
-        "question id": "20231020_15"
+        "question id": "20231020_15",
+        "expanded answer": []
     },
     {
         "question": "According to a recent study, which nutrient-rich food was once a staple for early Europeans?",
@@ -12843,7 +12909,8 @@
             "Pumpkins"
         ],
         "choices answer": "1",
-        "question id": "20231020_18"
+        "question id": "20231020_18",
+        "expanded answer": []
     },
     {
         "question": "What subject does Cory Hafer, the 2024 Delaware Teacher of the Year, teach at Middletown High School?",
@@ -13088,16 +13155,13 @@
             "Mathematics"
         ],
         "choices answer": "1",
-        "question id": "20231020_20"
+        "question id": "20231020_20",
+        "expanded answer": []
     },
     {
         "question": "How much was spent on legal services by Delaware schools in the last fiscal year, from October 1 to September 30?",
         "correct answer": [
-            "Over $3.7 million",
-            "Above $3,700,000",
-            "Greater than 3.7 million USD",
-            "In excess of $3.7M",
-            "More than 3.7 million dollars"
+            "Over $3.7 million"
         ],
         "incorrect answer": "Approximately $2.5 million",
         "id": 50,
@@ -13357,7 +13421,13 @@
             "Nearly $2.4 million"
         ],
         "choices answer": "0",
-        "question id": "20231020_24"
+        "question id": "20231020_24",
+        "expanded answer": [
+            "Above $3,700,000",
+            "Greater than 3.7 million USD",
+            "In excess of $3.7M",
+            "More than 3.7 million dollars"
+        ]
     },
     {
         "question": "Who is the Republican candidate seeking the nomination for Delaware's at-large U.S. House of Representatives seat in the upcoming election?",
@@ -13632,15 +13702,13 @@
             "Eugene Young"
         ],
         "choices answer": "2",
-        "question id": "20231020_29"
+        "question id": "20231020_29",
+        "expanded answer": []
     },
     {
         "question": "Sharon White is to step down as chair of John Lewis after how many years in the role?",
         "correct answer": [
-            "five years",
-            "half a decade",
-            "5",
-            "5 years"
+            "5"
         ],
         "incorrect answer": "7",
         "id": 52,
@@ -13900,15 +13968,16 @@
             "5"
         ],
         "choices answer": "3",
-        "question id": "20231006_2"
+        "question id": "20231006_2",
+        "expanded answer": [
+            "five years",
+            "half a decade",
+            "5 years"
+        ]
     },
     {
         "question": "Customs agents at a Minnesota airport seized a box of giraffe poo from a woman who wanted to use the droppings to make what?",
         "correct answer": [
-            "Jewelry",
-            "Ornaments",
-            "Accessory",
-            "Decorations",
             "Jewellery"
         ],
         "incorrect answer": "Herbal Tea",
@@ -14169,7 +14238,13 @@
             "Crockery"
         ],
         "choices answer": "1",
-        "question id": "20231006_3"
+        "question id": "20231006_3",
+        "expanded answer": [
+            "Jewelry",
+            "Ornaments",
+            "Accessory",
+            "Decorations"
+        ]
     },
     {
         "question": "How many of the six planned central towers on Barcelona's unfinished Sagrada Familia cathedral have now been completed?",
@@ -14439,7 +14514,8 @@
             "1"
         ],
         "choices answer": "0",
-        "question id": "20231006_5"
+        "question id": "20231006_5",
+        "expanded answer": []
     },
     {
         "question": "Which Hollywood actor is warning fans to \"beware\" a video advert\u00a0featuring an AI-generated version of him?",
@@ -14704,7 +14780,8 @@
             "Tom Hanks"
         ],
         "choices answer": "3",
-        "question id": "20231006_6"
+        "question id": "20231006_6",
+        "expanded answer": []
     },
     {
         "question": "What will be the leading cause of cancer in women under 60 by 2030, according to a new study?",
@@ -14974,7 +15051,8 @@
             "Alcohol"
         ],
         "choices answer": "0",
-        "question id": "20231006_7"
+        "question id": "20231006_7",
+        "expanded answer": []
     },
     {
         "question": "Who won this year's Nobel Peace Prize?",
@@ -15244,7 +15322,8 @@
             "Abiy Ahmed Ali"
         ],
         "choices answer": "0",
-        "question id": "20231006_9"
+        "question id": "20231006_9",
+        "expanded answer": []
     },
     {
         "question": "Which lawmaker was ousted from his role as speaker of the US House of Representatives?",
@@ -15514,7 +15593,8 @@
             "Tom Emmer"
         ],
         "choices answer": "0",
-        "question id": "20231006_11"
+        "question id": "20231006_11",
+        "expanded answer": []
     },
     {
         "question": "The CDC this week announced it will no longer distribute which item?",
@@ -15784,7 +15864,8 @@
             "Covid-19 vaccination cards"
         ],
         "choices answer": "3",
-        "question id": "20231006_15"
+        "question id": "20231006_15",
+        "expanded answer": []
     },
     {
         "question": "Which organization was recently impacted by a cyberattack affecting its unclassified websites?",
@@ -16054,16 +16135,13 @@
             "UN"
         ],
         "choices answer": "0",
-        "question id": "20231006_17"
+        "question id": "20231006_17",
+        "expanded answer": []
     },
     {
         "question": "What is the minimum annual income required for a family of four to be considered middle class in Delaware in 2023, according to the study?",
         "correct answer": [
-            "about 67,830 US dollars",
-            "sixty-seven thousand eight hundred thirty dollars",
-            "$67,830",
-            "67.83K dollars",
-            "approximately $67,830"
+            "$67,830"
         ],
         "incorrect answer": "$105,500",
         "id": 61,
@@ -16323,7 +16401,13 @@
             "$89,500"
         ],
         "choices answer": "1",
-        "question id": "20231006_21"
+        "question id": "20231006_21",
+        "expanded answer": [
+            "about 67,830 US dollars",
+            "sixty-seven thousand eight hundred thirty dollars",
+            "67.83K dollars",
+            "approximately $67,830"
+        ]
     },
     {
         "question": "Which luxury watch company is opening a store at the Christiana Mall on November 15?",
@@ -16483,16 +16567,13 @@
             "Tag Heuer"
         ],
         "choices answer": "3",
-        "question id": "20231006_22"
+        "question id": "20231006_22",
+        "expanded answer": []
     },
     {
         "question": "What is the primary reason for the endangered status of crowned lemurs?",
         "correct answer": [
-            "Forest clearing",
-            "Logging activities",
-            "Deforestation",
-            "Habitat destruction",
-            "Land conversion"
+            "Deforestation"
         ],
         "incorrect answer": "Global warming",
         "id": 63,
@@ -16762,16 +16843,18 @@
             "Predators"
         ],
         "choices answer": "0",
-        "question id": "20231006_25"
+        "question id": "20231006_25",
+        "expanded answer": [
+            "Forest clearing",
+            "Logging activities",
+            "Habitat destruction",
+            "Land conversion"
+        ]
     },
     {
         "question": "What is the predicted record amount of consumer spending on Halloween costumes and decorations for the 2023 season?",
         "correct answer": [
-            "12.2 billion USD",
-            "12.2 billion",
-            "$12,200,000,000",
-            "12.2B USD",
-            "12.2 billion dollars"
+            "$12.2 billion"
         ],
         "incorrect answer": "$15.7 billion",
         "id": 64,
@@ -17031,7 +17114,14 @@
             "$15.5 billion"
         ],
         "choices answer": "2",
-        "question id": "20231006_26"
+        "question id": "20231006_26",
+        "expanded answer": [
+            "12.2 billion USD",
+            "12.2 billion",
+            "$12,200,000,000",
+            "12.2B USD",
+            "12.2 billion dollars"
+        ]
     },
     {
         "question": "Who among the following individuals is a three-time state wrestling champion for Tatnall School and later became an All-American center in football at Alabama?",
@@ -17301,7 +17391,8 @@
             "Keith Mumford"
         ],
         "choices answer": "1",
-        "question id": "20231006_28"
+        "question id": "20231006_28",
+        "expanded answer": []
     },
     {
         "question": "Which word did Donald Trump use to refer to his political enemies during his Veterans Day speech?",
@@ -17575,7 +17666,8 @@
             "Pests"
         ],
         "choices answer": "2",
-        "question id": "20231117_0"
+        "question id": "20231117_0",
+        "expanded answer": []
     },
     {
         "question": "Which late celebrity is being \"brought back to life\" using AI in order to narrate a biopic?",
@@ -17845,7 +17937,8 @@
             "Ingrid Bergman"
         ],
         "choices answer": "1",
-        "question id": "20231117_1"
+        "question id": "20231117_1",
+        "expanded answer": []
     },
     {
         "question": "Which UK parcel delivery company delivers the worst customer service, according to a new study?",
@@ -18115,7 +18208,8 @@
             "Yodel"
         ],
         "choices answer": "0",
-        "question id": "20231117_3"
+        "question id": "20231117_3",
+        "expanded answer": []
     },
     {
         "question": "Xi Jinping met with Joe Biden in which city during the Chinese leader's first visit to the US in six years?",
@@ -18385,16 +18479,13 @@
             "New York City"
         ],
         "choices answer": "1",
-        "question id": "20231117_4"
+        "question id": "20231117_4",
+        "expanded answer": []
     },
     {
         "question": "How much did \u201cThe Marvels\u201d make at the box office in the film's opening weekend?",
         "correct answer": [
-            "approximately $47,000,000",
-            "47 million",
-            "around 47 million US dollars",
-            "47 million USD",
-            "about 47 million dollars"
+            "$47 million"
         ],
         "incorrect answer": "$85 million",
         "id": 70,
@@ -18654,7 +18745,14 @@
             "$60 million"
         ],
         "choices answer": "2",
-        "question id": "20231117_5"
+        "question id": "20231117_5",
+        "expanded answer": [
+            "approximately $47,000,000",
+            "47 million",
+            "around 47 million US dollars",
+            "47 million USD",
+            "about 47 million dollars"
+        ]
     },
     {
         "question": "What was the final score in last weekend's Premier League classic clash between Chelsea and Manchester City?",
@@ -18924,7 +19022,8 @@
             "4-4"
         ],
         "choices answer": "3",
-        "question id": "20231117_6"
+        "question id": "20231117_6",
+        "expanded answer": []
     },
     {
         "question": "A lion prowled the streets of which Italian seaside town last weekend after escaping from a circus?",
@@ -19189,7 +19288,8 @@
             "Levanzo"
         ],
         "choices answer": "1",
-        "question id": "20231117_8"
+        "question id": "20231117_8",
+        "expanded answer": []
     },
     {
         "question": "Who became the UK's sixth health secretary since the 2019 elections?",
@@ -19459,16 +19559,13 @@
             "Jeremy Hunt"
         ],
         "choices answer": "1",
-        "question id": "20231117_9"
+        "question id": "20231117_9",
+        "expanded answer": []
     },
     {
         "question": "Thousands of people participated in a pro-Israel protest this week in which city?",
         "correct answer": [
-            "Washington D.C.",
-            "Washington, DC",
-            "D.C.",
-            "Washington",
-            "District of Columbia"
+            "Washington, DC"
         ],
         "incorrect answer": "New York City",
         "id": 74,
@@ -19733,7 +19830,13 @@
             "Philadelphia"
         ],
         "choices answer": "2",
-        "question id": "20231117_10"
+        "question id": "20231117_10",
+        "expanded answer": [
+            "Washington D.C.",
+            "D.C.",
+            "Washington",
+            "District of Columbia"
+        ]
     },
     {
         "question": "State labs recently found \u201cextremely high\u201d levels of lead in which popular snack food?",
@@ -19998,7 +20101,8 @@
             "Yogurt"
         ],
         "choices answer": "1",
-        "question id": "20231117_11"
+        "question id": "20231117_11",
+        "expanded answer": []
     },
     {
         "question": "Which city was forced to close one of its busiest freeways due to a major fire?",
@@ -20268,7 +20372,8 @@
             "Houston"
         ],
         "choices answer": "1",
-        "question id": "20231117_12"
+        "question id": "20231117_12",
+        "expanded answer": []
     },
     {
         "question": "Which country declared a state of emergency this week over the threat of a possible volcanic eruption?",
@@ -20543,7 +20648,8 @@
             "Denmark"
         ],
         "choices answer": "2",
-        "question id": "20231117_14"
+        "question id": "20231117_14",
+        "expanded answer": []
     },
     {
         "question": "Which government institution announced a code of conduct this week in an attempt to address ethics concerns?",
@@ -20813,7 +20919,8 @@
             "Treasury Department"
         ],
         "choices answer": "0",
-        "question id": "20231117_15"
+        "question id": "20231117_15",
+        "expanded answer": []
     },
     {
         "question": "Which company is planning to label \u201crealistic\u201d AI-generated content?",
@@ -21078,7 +21185,8 @@
             "Facebook"
         ],
         "choices answer": "1",
-        "question id": "20231117_16"
+        "question id": "20231117_16",
+        "expanded answer": []
     },
     {
         "question": "Which celebrity will host the 2024 Academy Awards?",
@@ -21333,7 +21441,8 @@
             "Taylor Swift"
         ],
         "choices answer": "2",
-        "question id": "20231117_17"
+        "question id": "20231117_17",
+        "expanded answer": []
     },
     {
         "question": "Which state is asking for help in redesigning its flag?",
@@ -21593,7 +21702,8 @@
             "Minnesota"
         ],
         "choices answer": "3",
-        "question id": "20231117_18"
+        "question id": "20231117_18",
+        "expanded answer": []
     },
     {
         "question": "Which animal recently escaped from a circus near Rome?",
@@ -21858,7 +21968,8 @@
             "Horse"
         ],
         "choices answer": "2",
-        "question id": "20231117_19"
+        "question id": "20231117_19",
+        "expanded answer": []
     },
     {
         "question": "Which Republican candidate dropped out of the 2024 US presidential race last weekend?",
@@ -22128,7 +22239,8 @@
             "Tim Scott"
         ],
         "choices answer": "2",
-        "question id": "20231103_0"
+        "question id": "20231103_0",
+        "expanded answer": []
     },
     {
         "question": "Which African country did King Charles and Queen Camilla visit this week?",
@@ -22393,7 +22505,8 @@
             "Botswana"
         ],
         "choices answer": "1",
-        "question id": "20231103_8"
+        "question id": "20231103_8",
+        "expanded answer": []
     },
     {
         "question": "Which Republican presidential candidate recently dropped out of the 2024 race?",
@@ -22663,17 +22776,13 @@
             "Tim Scott"
         ],
         "choices answer": "0",
-        "question id": "20231103_11"
+        "question id": "20231103_11",
+        "expanded answer": []
     },
     {
         "question": "Fans and Hollywood stars are paying tribute to actor Matthew Perry following his untimely passing. Which popular TV sitcom did Perry star in?",
         "correct answer": [
-            "Friends sitcom",
-            "\u201cFriends\u201d",
-            "\"Friends\"",
-            "Friends",
-            "The TV show Friends",
-            "Friends TV show"
+            "\u201cFriends\u201d"
         ],
         "incorrect answer": "The Office",
         "id": 86,
@@ -22933,17 +23042,19 @@
             "\u201cWill & Grace\u201d"
         ],
         "choices answer": "1",
-        "question id": "20231103_12"
+        "question id": "20231103_12",
+        "expanded answer": [
+            "Friends sitcom",
+            "\"Friends\"",
+            "Friends",
+            "The TV show Friends",
+            "Friends TV show"
+        ]
     },
     {
         "question": "Which type of products were removed from Target, Rite Aid, and CVS this week due to bacterial concerns?",
         "correct answer": [
-            "Artificial tears",
-            "Eye care products",
-            "Eye lubricants",
-            "Ocular products",
-            "Eye drops",
-            "Eye drop"
+            "Eye drops"
         ],
         "incorrect answer": "Hand sanitizers",
         "id": 87,
@@ -23213,7 +23324,14 @@
             "Mouthwash"
         ],
         "choices answer": "2",
-        "question id": "20231103_13"
+        "question id": "20231103_13",
+        "expanded answer": [
+            "Artificial tears",
+            "Eye care products",
+            "Eye lubricants",
+            "Ocular products",
+            "Eye drop"
+        ]
     },
     {
         "question": "Which MLB team won the World Series this week?",
@@ -23473,12 +23591,13 @@
             "Texas Rangers"
         ],
         "choices answer": "3",
-        "question id": "20231103_15"
+        "question id": "20231103_15",
+        "expanded answer": []
     },
     {
         "question": "Joe Biden hosted an early screening of which upcoming film at a Thanksgiving event for US service members and their families?",
         "correct answer": [
-            "Wonka"
+            "'Wonka'"
         ],
         "incorrect answer": "The Batman Returns",
         "id": 89,
@@ -23668,7 +23787,10 @@
             "'Chicken Run: Dawn of the Nugget'"
         ],
         "choices answer": "0",
-        "question id": "20231124_0"
+        "question id": "20231124_0",
+        "expanded answer": [
+            "Wonka"
+        ]
     },
     {
         "question": "2. Elon Musk's X is suing which organisation for defamation over reports of ads on the platform appearing next to antisemitic posts?",
@@ -23943,7 +24065,8 @@
             "Fox News"
         ],
         "choices answer": "0",
-        "question id": "20231124_2"
+        "question id": "20231124_2",
+        "expanded answer": []
     },
     {
         "question": "Cybercriminals demanded \u00a3600,000 for data stolen during a ransomware attack on which UK institution?",
@@ -24183,15 +24306,13 @@
             "Imperial War Museum London"
         ],
         "choices answer": "0",
-        "question id": "20231124_3"
+        "question id": "20231124_3",
+        "expanded answer": []
     },
     {
         "question": "Which pop duo are embroiled in a legal battle after one obtained a restraining order against the other?",
         "correct answer": [
-            "Hall & Oates",
-            "Hall and Oates",
-            "Daryl Hall and John Oates",
-            "Daryl Hall & John Oates"
+            "Hall & Oates"
         ],
         "incorrect answer": "Simon & Garfunkel",
         "id": 92,
@@ -24391,7 +24512,12 @@
             "The White Stripes"
         ],
         "choices answer": "0",
-        "question id": "20231124_5"
+        "question id": "20231124_5",
+        "expanded answer": [
+            "Hall and Oates",
+            "Daryl Hall and John Oates",
+            "Daryl Hall & John Oates"
+        ]
     },
     {
         "question": "Which American football team claimed victory against the Kansas City Chiefs in a Super Bowl rematch this week?",
@@ -24661,7 +24787,8 @@
             "Baltimore Ravens"
         ],
         "choices answer": "2",
-        "question id": "20231124_7"
+        "question id": "20231124_7",
+        "expanded answer": []
     },
     {
         "question": "The UK's new home secretary was accused of referring to which constituency as a \"shithole\"?",
@@ -24936,7 +25063,8 @@
             "Bishop Auckland"
         ],
         "choices answer": "0",
-        "question id": "20231124_8"
+        "question id": "20231124_8",
+        "expanded answer": []
     },
     {
         "question": "Which American football team was left out of the 2023 College Football Playoffs despite being undefeated this season?",
@@ -25201,7 +25329,8 @@
             "Florida State Seminoles"
         ],
         "choices answer": "3",
-        "question id": "20231208_0"
+        "question id": "20231208_0",
+        "expanded answer": []
     },
     {
         "question": "Billie Eilish accused which publication of \"outing\" her?",
@@ -25466,7 +25595,8 @@
             "Vanity Fair"
         ],
         "choices answer": "2",
-        "question id": "20231208_3"
+        "question id": "20231208_3",
+        "expanded answer": []
     },
     {
         "question": "What is the name of the cheese dubbed the \"world's smelliest\" set to cause a stink in UK supermarkets?",
@@ -25731,7 +25861,8 @@
             "Whiffy"
         ],
         "choices answer": "1",
-        "question id": "20231208_6"
+        "question id": "20231208_6",
+        "expanded answer": []
     },
     {
         "question": "Which golfer this week became the latest to leave the PGA Tour for the Saudi-funded LIV Golf circuit?",
@@ -25996,16 +26127,13 @@
             "Scottie Scheffler"
         ],
         "choices answer": "0",
-        "question id": "20231208_7"
+        "question id": "20231208_7",
+        "expanded answer": []
     },
     {
         "question": "How much per year is Britain's obesity problem costing the economy, according to new analysis?",
         "correct answer": [
-            "100 billion pounds",
-            "around \u00a3100 billion",
-            "\u00a3100 billion",
-            "approximately \u00a3100 billion",
-            "100bn"
+            "\u00a3100 billion"
         ],
         "incorrect answer": "\u00a350 billion",
         "id": 99,
@@ -26270,6 +26398,12 @@
             "\u00a3100 billion"
         ],
         "choices answer": "3",
-        "question id": "20231208_8"
+        "question id": "20231208_8",
+        "expanded answer": [
+            "100 billion pounds",
+            "around \u00a3100 billion",
+            "approximately \u00a3100 billion",
+            "100bn"
+        ]
     }
 ]
