@@ -6,7 +6,7 @@ serpapi_api_key = "" # unfortunately, we are currently using this paid third-par
 # Google itself provides APIs free for a number of queries per day https://developers.google.com/custom-search/v1/overview
 import json
 
-def call_search_engine(query, skip):
+def call_search_engine(query):
     params = {
         "q": query,
         "engine": "google", # Set parameter to google to use the Google API engine
@@ -15,8 +15,7 @@ def call_search_engine(query, skip):
         "gl": "us", # Parameter defines the country to use for the Google search.
         "google_domain": "google.com",  # Parameter defines the Google domain to use.
         "api_key": serpapi_api_key,
-        "num": 50,
-        "start": skip
+        "num": 50
     }
     results = serpapi.search(**params)
     return results
@@ -71,7 +70,7 @@ def main():
 
         query = item["question"]
         
-        results = call_search_engine(query, skip=k_skip) # call api
+        results = call_search_engine(query) # call api
 
         raw_results.append(dict(results)) # save raw results
 
